@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "SourceSerif4";
+    src: url("fonts/SourceSerif4-VariableFont_opsz\,wght.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+  background: #494949;
+  margin: 0;
+}
+
+.ss4 {
+  font-family: "SourceSerif4", serif;
+  color: #361b1b;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+#menubar {
+  background-color: #cccccc;
+  padding: 20px;
+  border-radius: 0 0 15px 15px;
+}
